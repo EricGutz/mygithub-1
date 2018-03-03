@@ -1,1 +1,2 @@
 ECHO is on.
+use source tree for gui to GITHUB
